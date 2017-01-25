@@ -12,9 +12,7 @@
 1. 知识点学习实践代码
 2. 作业程序流程图
 3. 作业程序源代码
-  
-### 博客更新
-[www.lichengbing.com](http://www.lichengbing.com)
+
 
 
 
